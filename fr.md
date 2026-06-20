@@ -6,7 +6,6 @@
 | :--- | :--- |
 | **Application** | LudIQ |
 | **Dernière mise à jour** | 13 juin 2026 |
-| **Version** | 1.0 |
 
 ---
 
@@ -31,9 +30,8 @@ L'éditeur de l'application LudIQ est responsable du traitement de vos données 
 > * **Statut :** Développeur individuel
 > * **Numéro d'identification :** Non applicable
 > * **Adresse de contact :** Ludiq.support@gmail.com
-> * **Contact dédié à la protection des données :** savi.godineau@gmail.com
 
-Pour toute question relative à la présente politique ou à la gestion de vos données, vous pouvez nous écrire directement aux adresses e-mail indiquées ci-dessus.
+Pour toute question relative à la présente politique ou à la gestion de vos données, vous pouvez nous écrire directement à l'adresse e-mail indiquée ci-dessus.
 
 ---
 
@@ -128,7 +126,7 @@ L'architecture locale ("local-first") de LudIQ vous permet d'**exercer l'immense
 * **Rectification :** Vous pouvez modifier à la volée vos fiches de jeux, vos scores, l'historique des parties et les fiches des joueurs.
 * **Effacement :** Vous pouvez supprimer un historique, réinitialiser l'onglet Explorer ou simplement désinstaller l'application pour effacer l'intégralité des données en un clic.
 
-Pour retirer un consentement lié aux permissions, rendez-vous dans les réglages système de votre téléphone. Pour toute demande d'exercice de droit nécessitant une action de notre part, contactez-nous à **savi.godineau@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
+Pour retirer un consentement lié aux permissions, rendez-vous dans les réglages système de votre téléphone. Pour toute demande d'exercice de droit nécessitant une action de notre part, contactez-nous à **Ludiq.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
 
 Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente. En France, il s'agit de la **CNIL** (Commission Nationale de l'Informatique et des Libertés) sur son site [www.cnil.fr](https://www.cnil.fr).
 
