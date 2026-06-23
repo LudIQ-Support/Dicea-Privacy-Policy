@@ -29,7 +29,7 @@ L'éditeur de l'application Dicea est responsable du traitement de vos données 
 > * **Éditeur :** GODINEAU Savinien
 > * **Statut :** Développeur individuel
 > * **Numéro d'identification :** Non applicable
-> * **Adresse de contact :** Dicea.support@gmail.com
+> * **Adresse de contact :** Ludiq.support@gmail.com
 
 Pour toute question relative à la présente politique ou à la gestion de vos données, vous pouvez nous écrire directement à l'adresse e-mail indiquée ci-dessus.
 
@@ -121,7 +121,7 @@ En raison de l'architecture décentralisée ("local-first") de Dicea, **vous pou
 * **Rectification :** Vous pouvez modifier manuellement vos jeux, vos sessions de parties, vos scores et vos profils de joueurs directement dans les réglages.
 * **Effacement :** Vous pouvez supprimer un élément un par un, réinitialiser la mémoire locale de l'onglet Explorer, ou désinstaller l'application pour purger instantanément l'intégralité des enregistrements de votre terminal.
 
-Vous pouvez à tout moment **retirer un consentement** que vous avez précédemment accordé, par exemple en révoquant une permission dans les réglages système de votre appareil, ce qui rendra simplement les fonctionnalités associées indisponibles. Pour toute demande d'exercice de droit nécessitant une action de notre part, vous pouvez nous contacter à l'adresse **Dicea.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
+Vous pouvez à tout moment **retirer un consentement** que vous avez précédemment accordé, par exemple en révoquant une permission dans les réglages système de votre appareil, ce qui rendra simplement les fonctionnalités associées indisponibles. Pour toute demande d'exercice de droit nécessitant une action de notre part, vous pouvez nous contacter à l'adresse **Ludiq.support@gmail.com**. Nous vous répondrons dans le délai légal d'un mois.
 
 Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente. En France, il s'agit de la **CNIL** (Commission nationale de l'informatique et des libertés) via son site [www.cnil.fr](https://www.cnil.fr).
 
@@ -153,6 +153,6 @@ La présente politique de confidentialité peut être mise à jour afin de refl�
 
 Pour toute question relative à la présente politique ou à vos données :
 
-* **Adresse e-mail :** Dicea.support@gmail.com
+* **Adresse e-mail :** Ludiq.support@gmail.com
 * **Éditeur :** GODINEAU Savinien
 * **URL du document :** https://Dicea-support.github.io/Dicea-Privacy-Policy/
